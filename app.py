@@ -2,7 +2,7 @@ import joblib
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Segmentasi Risiko Kesehatan Pasien", page_icon="🩺")
+st.set_page_config(page_title="Deteksi Dini Risiko Kesehatan Pasien", page_icon="🩺")
 
 
 @st.cache_resource
